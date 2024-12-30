@@ -6,11 +6,11 @@
 # Hi👋 I'm yeonseungg
 ---
 
-## About me
-🎓 Education: B.A. degree expected in Applied Statistic, Gacheon University
-🌍 Location: Incheon, Korea
-💡 Interests: Data Analysis, Deep Learning
-📫 Reach Me: [Email](leesyun122@gmail.com)
+## About me   
+   🎓 Education: B.A. degree expected in Applied Statistic, Gacheon University
+   🌍 Location: Incheon, Korea
+   💡 Interests: Data Analysis, Deep Learning
+   📫 Reach Me: [Email](leesyun122@gmail.com)
 
 
 
